@@ -1,5 +1,5 @@
 
-Comandos Typescript
+Comandos Typescript 
 
 npm install -g typescript = Instalar o typescript globalmente
 npm install typescript = Instalar o typescript localmente no projeto
@@ -105,4 +105,5 @@ Genericos TypeScript
 TypeScript com  React
 
 npx create-react-app typescript-com-react --template typescript
+
 
